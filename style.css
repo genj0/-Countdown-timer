@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic|Playfair+Display+SC:400,700&subset=latin,cyrillic);
+
+body {
+  background-image: url(https://cdn.pixabay.com/photo/2015/01/28/23/35/landscape-615429_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#timer {
+  color: black;
+  position: relative;
+  font-size: 1.2em;
+  font-family: "Playfair Display SC", serif;
+  font-weight: 900;
+  text-align: center;
+  background-color: yellow;
+}
